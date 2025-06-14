@@ -1,10 +1,11 @@
 /**
  * File:  SecurityRoleSerializer.java
+ * Course materials (23S) CST 8277
  *
- * @author Onur Onel
- * @author Asher Fincham
- * @author Lewis Brown
- * @author Josh Duffenais
+ * @author Teddy Yap
+ * @author Shariar (Shawn) Emami
+ * @author Mike Norman
+ *
  */
 package acmecollege.rest.serializer;
 

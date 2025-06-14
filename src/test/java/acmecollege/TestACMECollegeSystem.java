@@ -1,10 +1,17 @@
 /**
  * File:  TestACMECollegeSystem.java
- * 
- * @author Onur Onel
- * @author Asher Fincham
- * @author Lewis Brown
- * @author Josh Duffenais
+ * Course materials (23S) CST 8277
+ * Teddy Yap
+ * (Original Author) Mike Norman
+ *
+ * @date 2020 10
+ *
+ *   Updated by:  Group 10
+ *   Lewis Brown
+ *   Josh Duffenais
+ *   Asher Fincham
+ *   Onur Önel
+ *
  *
  */
 package acmecollege;

@@ -1,8 +1,13 @@
 /*
- * @author Onur Onel
- * @author Asher Fincham
- * @author Lewis Brown
- * @author Josh Duffenais
+ * Dec 2023
+ *  Created and
+ *  * Updated by:  Group 10
+ *   Lewis Brown
+ *   Josh Duffenais
+ *   Asher Fincham
+ *   Onur Önel
+ *
+ *
  */
 package acmecollege;
 

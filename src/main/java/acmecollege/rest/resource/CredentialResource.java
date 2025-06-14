@@ -1,10 +1,11 @@
 /**
  * File:  CredentialResource.java
+ * Course materials (23S) CST 8277
  *
- * @author Onur Onel
- * @author Asher Fincham
- * @author Lewis Brown
- * @author Josh Duffenais
+ * @author Teddy Yap
+ * @author (original) Mike Norman
+ * 
+ * Note:  Students do NOT need to change anything in this class.
  *
  */
 package acmecollege.rest.resource;
